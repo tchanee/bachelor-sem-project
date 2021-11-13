@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/scripts.dir/face_landmark_detection_to_txt.cpp.o -o scripts  -llapack -lcblas -ldlib 

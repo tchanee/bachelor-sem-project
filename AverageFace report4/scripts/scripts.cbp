@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="scripts"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\..\..\usr\;CMake Files\..\..\..\..\..\..\..\..\usr\local\;CMake Files\..\..\..\..\..\..\..\..\usr\local\lib\;CMake Files\..\..\..\..\..\..\..\..\usr\local\lib\cmake\;CMake Files\..\..\..\..\..\..\..\..\usr\local\lib\cmake\dlib\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/tchanee/Documents/EPFL/BA6/Semester Project/AverageFace report4/scripts"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/tchanee/Documents/EPFL/BA6/Semester\ Project/AverageFace\ report4/scripts/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/tchanee/Documents/EPFL/BA6/Semester\ Project/AverageFace\ report4/scripts/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/tchanee/Documents/EPFL/BA6/Semester\ Project/AverageFace\ report4/scripts/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/tchanee/Documents/EPFL/BA6/Semester\ Project/AverageFace\ report4/scripts/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/tchanee/Documents/EPFL/BA6/Semester Project/AverageFace report4/scripts"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/tchanee/Documents/EPFL/BA6/Semester\ Project/AverageFace\ report4/scripts/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/tchanee/Documents/EPFL/BA6/Semester\ Project/AverageFace\ report4/scripts/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/tchanee/Documents/EPFL/BA6/Semester\ Project/AverageFace\ report4/scripts/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/tchanee/Documents/EPFL/BA6/Semester\ Project/AverageFace\ report4/scripts/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/tchanee/Documents/EPFL/BA6/Semester Project/AverageFace report4/scripts"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/tchanee/Documents/EPFL/BA6/Semester\ Project/AverageFace\ report4/scripts/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/tchanee/Documents/EPFL/BA6/Semester\ Project/AverageFace\ report4/scripts/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/tchanee/Documents/EPFL/BA6/Semester\ Project/AverageFace\ report4/scripts/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/tchanee/Documents/EPFL/BA6/Semester\ Project/AverageFace\ report4/scripts/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="scripts">
+				<Option output="/home/tchanee/Documents/EPFL/BA6/Semester Project/AverageFace report4/scripts/scripts" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/tchanee/Documents/EPFL/BA6/Semester\ Project/AverageFace\ report4/scripts/Makefile&quot;  VERBOSE=1 scripts"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/tchanee/Documents/EPFL/BA6/Semester\ Project/AverageFace\ report4/scripts/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/tchanee/Documents/EPFL/BA6/Semester\ Project/AverageFace\ report4/scripts/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/tchanee/Documents/EPFL/BA6/Semester\ Project/AverageFace\ report4/scripts/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="scripts/fast">
+				<Option output="/home/tchanee/Documents/EPFL/BA6/Semester Project/AverageFace report4/scripts/scripts" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/tchanee/Documents/EPFL/BA6/Semester\ Project/AverageFace\ report4/scripts/Makefile&quot;  VERBOSE=1 scripts/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/tchanee/Documents/EPFL/BA6/Semester\ Project/AverageFace\ report4/scripts/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/tchanee/Documents/EPFL/BA6/Semester\ Project/AverageFace\ report4/scripts/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/tchanee/Documents/EPFL/BA6/Semester\ Project/AverageFace\ report4/scripts/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/tchanee/Documents/EPFL/BA6/Semester Project/AverageFace report4/scripts/face_landmark_detection_to_txt.cpp">
+			<Option target="scripts"/>
+		</Unit>
+		<Unit filename="/home/tchanee/Documents/EPFL/BA6/Semester Project/AverageFace report4/scripts/render_face.hpp">
+			<Option target="scripts"/>
+		</Unit>
+		<Unit filename="/home/tchanee/Documents/EPFL/BA6/Semester Project/AverageFace report4/scripts/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/tchanee/Documents/EPFL/BA6/Semester Project/AverageFace report4/scripts/../../../../../../../../usr/local/lib/cmake/dlib/dlib-release.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\..\usr\local\lib\cmake\dlib\"/>
+		</Unit>
+		<Unit filename="/home/tchanee/Documents/EPFL/BA6/Semester Project/AverageFace report4/scripts/../../../../../../../../usr/local/lib/cmake/dlib/dlib.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\..\usr\local\lib\cmake\dlib\"/>
+		</Unit>
+		<Unit filename="/home/tchanee/Documents/EPFL/BA6/Semester Project/AverageFace report4/scripts/../../../../../../../../usr/local/lib/cmake/dlib/dlibConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\..\usr\local\lib\cmake\dlib\"/>
+		</Unit>
+		<Unit filename="/home/tchanee/Documents/EPFL/BA6/Semester Project/AverageFace report4/scripts/../../../../../../../../usr/local/lib/cmake/dlib/dlibConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\..\usr\local\lib\cmake\dlib\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

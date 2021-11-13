@@ -1,0 +1,8 @@
+/var/lib/snapd/snap/clion/169/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" "/home/tchanee/Documents/EPFL/BA6/Semester Project/AverageFace report4/scripts"
+-- OpenCV library status:
+--     version: 
+--     libraries: 
+--     include path: 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/tchanee/Documents/EPFL/BA6/Semester Project/AverageFace report4/scripts

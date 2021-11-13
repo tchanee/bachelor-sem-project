@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/tchanee/Documents/EPFL/BA6/Semester Project/AverageFace report4/scripts/build",
+  "command": "/bin/c++   -g -o CMakeFiles/scripts.dir/face_landmark_detection_to_txt.cpp.o -c \"/home/tchanee/Documents/EPFL/BA6/Semester Project/AverageFace report4/scripts/face_landmark_detection_to_txt.cpp\"",
+  "file": "/home/tchanee/Documents/EPFL/BA6/Semester Project/AverageFace report4/scripts/face_landmark_detection_to_txt.cpp"
+}
+]

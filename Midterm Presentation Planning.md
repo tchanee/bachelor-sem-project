@@ -1,0 +1,23 @@
+### Big plan:
+
+- First slides: 
+  - who am i
+  - what this is
+  - thanks for joining
+  - course level / name
+- What is this project about
+- What I am trying to achieve
+- Past works (What has been done regarding warping/generations)
+- Why am i not doing machine learning (training on datasets etc)
+  - lack of time
+  - never done my own architecture from scratch
+  - didnt seem like it was needed
+- Current Pipeline
+  - 1- computer average face (code is `dlib_landmarks_to_txt` + `averageFace.py`)
+    - explain the article steps
+  - 2- on new input, compare statistics
+    - image drawn by mr sylvain 
+  - 3- the chosen statistic is magnified naturally (as much as possible)
+    - some talk regarding pychubby
+- Where I currently am (show work)
+- What I hope to still do
