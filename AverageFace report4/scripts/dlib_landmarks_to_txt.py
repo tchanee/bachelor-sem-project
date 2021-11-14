@@ -10,6 +10,7 @@ p = "shape_predictor_68_face_landmarks.dat"
 detector = dlib.get_frontal_face_detector()
 predictor = dlib.shape_predictor(p)
 path = '../faces'
+path2 = '../output'
 
 
 if __name__ == '__main__':
@@ -27,6 +28,14 @@ if __name__ == '__main__':
 
             rects = detector(rgb, 0)
             rects2 = detector(grey, 0)
+            print(rects2)
+            print("Number of faces detected: {}".format(len(rects2)))
+            for i, d in enumerate(rects2):
+                print("Detection {}: Left: {} Top: {} Right: {} Bottom: {}".format(
+                    i, d.left(), d.top(), d.right(), d.bottom()))
+
+
+
             rect = rects[0]
             rect2 = rects2[0]
             landmarks = predictor(rgb, rect)
@@ -35,7 +44,7 @@ if __name__ == '__main__':
             landmarks2 = predictor(grey, rect2)
             landmarks2 = face_utils.shape_to_np(landmarks2)
             # print(len(landmarks2))
-            print(landmarks2) #this seems more accurate!
+            # print(landmarks2) #this seems more accurate!
             newName = path + "/" + filePath + "G.txt"
             print(newName)
             file_object = open(newName, "w")

@@ -15,7 +15,7 @@
 - Current Pipeline
   - 1- computer average face (code is `dlib_landmarks_to_txt` + `averageFace.py`)
     - explain the article steps
-  - 2- on new input, compare statistics
+  - 2- on new input, compare statistics (currently in `face_statistics.py`, still need to plot them)
     - image drawn by mr sylvain 
   - 3- the chosen statistic is magnified naturally (as much as possible)
     - some talk regarding pychubby
