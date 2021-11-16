@@ -19,5 +19,6 @@
     - image drawn by mr sylvain 
   - 3- the chosen statistic is magnified naturally (as much as possible)
     - some talk regarding pychubby
+    - **MIGHT NOT INCLUDE THIS PART FOR MIDTERM** 
 - Where I currently am (show work)
 - What I hope to still do
