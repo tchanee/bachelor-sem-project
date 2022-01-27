@@ -22,3 +22,17 @@
     - **MIGHT NOT INCLUDE THIS PART FOR MIDTERM** 
 - Where I currently am (show work)
 - What I hope to still do
+
+
+
+
+
+
+
+PROJECT MIDTERM FEEDBACK
+
+
+
+maybe use the 81 point custom dlib model?
+
+maybe try to do with without alignment of eyes together on horizontal line (amir question)
